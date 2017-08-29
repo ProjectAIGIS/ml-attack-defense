@@ -12,6 +12,9 @@ All about attack &amp; defense papers, projects in machine learning
 
 ### Robust Model
 
+- [paper](https://arxiv.org/pdf/1511.05432.pdf) : Understanding Adversarial Training: IncreasingLocal Stability of Neural Nets through Robust Optimization
+
+
 ### Data Adjustment
 
 ## Related links
